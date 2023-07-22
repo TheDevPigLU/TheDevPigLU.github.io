@@ -1,0 +1,15 @@
+{
+    "contact": "",
+    "templates": [
+      {
+        "name": "Luxembourg",
+        "sources": [
+          "https://i.imgur.com/jqPwGrU.png"
+        ],
+        "x": 165,
+        "y": 726
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
