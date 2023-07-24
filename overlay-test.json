@@ -8,6 +8,14 @@
         ],
         "x": 2132,
         "y": 345
+      },
+      {
+        "name": "Luxembourg Expand Test",
+        "sources": [
+          "https://i.imgur.com/oLU7oER.png"
+        ],
+        "x": 2503,
+        "y": 360
       }
     ],
     "whitelist": [],
